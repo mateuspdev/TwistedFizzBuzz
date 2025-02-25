@@ -107,7 +107,7 @@ int[] numbers = { -5, 6, 300, 12, 15 };
 var results = FizzBuzzProcessor.ProcessNumbers(numbers);
 ```
 
-# Processing Non-Sequential Numbers with Custom Tokens
+### Processing Non-Sequential Numbers with Custom Tokens
 
 ```csharp
 // Define custom tokens and divisors
